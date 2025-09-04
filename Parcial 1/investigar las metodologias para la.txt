@@ -1,0 +1,1 @@
+investigar las metodologias para las clases de css: oocss / bem / smacss
