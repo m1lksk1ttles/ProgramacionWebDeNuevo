@@ -1,0 +1,37 @@
+/*Static es el defautl, donde me toque en el flujo y el espacio se reserva
+relative, donde me tocaba, me muevo x y y cantidad de espacio, el espacio se reserva
+absolute, me muevo de donde estaba, se elimina mi espacio
+fixed, donde me digan estoy, se elimina mi espacio
+sticky, es como el fixed pero me muevo con la pagina, se elimina mi espacio*/
+
+
+*{
+    background-color: grey;
+    box-sizing: border-box;
+    margin : 0;
+    padding: 0;
+    color: bisque;
+}
+.contenedor
+{
+    background-color:aliceblue;
+    overflow: auto;
+}
+.caja{
+    width: 100px;
+    height: 100px;
+    border: 2px solid orange;
+    background-color:pink;
+    float: left;
+}
+
+#caja3{
+    clear: left;
+}
+
+/* div fantasma obsoleto*/
+.fantasma{
+    clear: both;
+}
+
+/* Todo se controla con el float los que van a flotar, overflow en el padre y clear */
