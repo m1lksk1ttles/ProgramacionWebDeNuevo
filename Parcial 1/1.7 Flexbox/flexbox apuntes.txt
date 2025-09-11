@@ -1,0 +1,6 @@
+display: flex (ancho sera de padre), inline-flex (ancho definido por contenido)
+
+es basicamente como se acomoda el pedo
+
+flex-direction row (define el eje principal y su flujo izq a derecha), row reverse(lo mismo pero derecha a izq)
+justify-content, algo obvio lo que hace eso

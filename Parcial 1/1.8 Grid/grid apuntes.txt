@@ -1,0 +1,11 @@
+display: grid
+grid-template-columns: numero y tamano de las columnas
+grid-template-rows: numero y tamano de las filas
+
+row-gap: espacio entre cada filas
+column-gap: espacio entre columnas
+
+grid-column-start: columna donde inicia
+grid-column-end: columna donde finaliza
+grid-row-start: fila donde inicia
+grid-row-end: fila donde finaliza
