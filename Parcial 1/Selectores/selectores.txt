@@ -1,0 +1,22 @@
+selectores basicos
+*
+etiqueta
+# id
+. clase
+
+selectores de relacion
+_0_
+_>_
+_+_
+
+
+selectores seudo
+:: seudo elemento
+: seudoclase
+: pseudo? *()
+
+selectores de atributos
+[atributo]
+[atributo="valor"]
+
+div.clase>.contenedor#id:hover
