@@ -1,0 +1,22 @@
+Cascada
+
+los origenes
+primero se cargan las cosas de navegador (UserAgent)
+despues las opciones de usuario (preferencias o de accesibilidad) 
+y finalmente las opciones de desarrollador 
+las de navegador los puedes poner en un <link>, en <head> <style>, en <etiqueta>, !usuario
+
+especificidad
+la importancia que se le da a algun atributo
+<style> #id .clase(seudoclase) <div>(seudoelementos)
+(0 , 0 ,0, 0)
+
+alguna opcion dentro de style va a tener mas importancia que todos los demas
+son basicamente style > id > clase > div
+si le pones el important(!) a la etiqueta le haces que se cargue de ahuevo
+
+orden
+lo ultimo en leerse se es el atributo que se le asigna
+
+div.clase>.contenedor#id:hover
+1   10       10     100     10 = peso de 231

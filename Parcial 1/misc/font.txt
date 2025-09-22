@@ -1,0 +1,21 @@
+cuando tienes la font descargada localmente
+@font-face {
+  font-family: "Trickster";
+  src:
+    local("Trickster"),
+    url("trickster-COLRv1.otf") format("opentype") tech(color-COLRv1),
+    url("trickster-outline.otf") format("opentype"),
+    url("trickster-outline.woff") format("woff");
+}
+
+cuando la mandas a descargar
+@font-face {
+  font-family: "Bitstream Vera Serif Bold";
+  src: url("https://mdn.github.io/shared-assets/fonts/VeraSeBd.ttf");
+}
+
+body {
+  font-family: "Bitstream Vera Serif Bold", serif;
+}
+
+
