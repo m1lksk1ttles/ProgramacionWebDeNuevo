@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Articulo.css">
+</head>
+<body>
+    <button id="Cambio"> Switch to English </button>
+    <div class="Cuadro">
+        <div id="Titulo"><b>Cuando la vida te da limones, no hagas limonada.</b></div>
+        <div id="Cave"> <img src="cavejohnson.png" alt="cavejohnson"></div>
+        <div id="Texto">
+            Cuando la vida te da limones, no hagas limonada. ¡Haz que la vida te devuelva los limones! ¡Enójate! 
+            ¡No quiero tus malditos limones, qué diablos se supone que debo hacer con estos? ¡Exige hablar con el gerente de la vida!
+            ¡Haz que la vida lamente el día que pensó que podía darle limones a Cave Johnson! 
+            ¿Sabes quién soy? ¡Soy el hombre que va a quemar tu casa! ¡Con los limones! 
+            ¡Voy a hacer que mis ingenieros inventen un limón combustible que te queme la casa!
+        </div>
+        <div id="Pie">-Cave Johnson, 1979, Aperture Science</div>
+    </div>
+    <script>
+        window.onload = function() {
+            const boton = document.getElementById("Cambio");
+            const tituloDeEstaMadre = document.getElementById("Titulo");
+            const parrafoGeneral = document.getElementById("Texto");
+
+            boton.addEventListener("click", () => {
+            if (boton.textContent="Cambiar a Ingles"){
+                tituloDeEstaMadre.innerHTML= "<b>When life gives you lemons, don't make lemonade.</b>";
+                parrafoGeneral.textContent = "When life gives you lemons, don’t make lemonade. Make life take the lemons back! Get mad! I don’t want your damn lemons, what the hell am I supposed to do with these? Demand to see life’s manager! Make life rue the day it thought it could give Cave Johnson lemons! Do you know who I am? I’m the man who’s gonna burn your house down! With the lemons! I’m gonna get my engineers to invent a combustible lemon that burns your house down! ";
+                boton.textContent = "Change to Spanish";
+            } 
+            else if (boton.textContent = "Change to Spanish"){
+                document.reload(true);
+            }
+            })
+        }
+    </script>
+</body>
+</html>
