@@ -1,0 +1,5 @@
+sincronia: que si una parte del proceso se atora, lo de mas del proceso no puede seguir avanzando
+asincronia: que si una parte del proceso se atora, no hay rollo y el proceso se sigue, no se detiene a esperar
+para escrubir sincronas:
+para escribir asincronas:
+promesas y callbacks (checa lo del semestre pasado ahi lo tienes el callback)

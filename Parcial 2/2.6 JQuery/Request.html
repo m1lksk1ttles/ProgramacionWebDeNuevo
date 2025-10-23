@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>jquery</title>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+  <h1 id="EncabezadoPrincipal">Peticion</h1>
+  
+  <button id="miBoton">Peticion</button>
+  <div id="resp"></div>
+    
+  <script>
+    $(document).ready(function() {
+      alert('Página cargada');
+     $("#miBoton").click(function() {
+     $.getJSON("https://api.waifu.im/search?order_by=random&included_tags=waifu", function(respuesta) {
+          console.log(respuesta);
+          $("#resp").html(`
+            <p>${respuesta.url}</p>
+            <img src="${respuesta.url}" alt="No" >
+          `);
+        }).fail(function(error) {
+          console.error("Error en la petición:", error);
+        });
+      });
+    });
+    
+
+  </script>
+
+      
+    
+
+</html>
