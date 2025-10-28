@@ -1,7 +1,7 @@
-3497
-107/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/src/index.js1760964383836921000 0
+3515
+107/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/src/index.js1761222586246185000 0
 98/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/src1760964426911695700 1
-112/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/package-lock.json1760964380400643400 0
+112/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/package-lock.json1761309820962546800 0
 136/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/weak-lru-cache/tests/test.js1760964373432285400 0
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/weak-lru-cache/rollup.config.js1760964373379905600 0
 135/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/weak-lru-cache/package.json1760964373489531500 0
@@ -324,6 +324,10 @@
 123/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lmdb/caching.js1760964375847964500 0
 124/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lmdb/binding.gyp1760964375568773500 0
 116/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lmdb/bin1760964375860074500 1
+145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss-linux-x64-musl/README.md1761309818599496700 0
+148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss-linux-x64-musl/package.json1761309818598533400 0
+168/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss-linux-x64-musl/lightningcss.linux-x64-musl.node1761309819080963900 0
+143/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss-linux-x64-musl/LICENSE1761309818597793400 0
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss-linux-x64-gnu/package.json1760964373068754100 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss/package.json1760964373986566100 0
 128/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/semver/ranges/ltr.js1760964374035806600 0
@@ -743,7 +747,22 @@
 158/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/prefers-color-scheme.js1760964377348674500 0
 149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pointerlock.js1760964377340082400 0
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pointer.js1760964377338429900 0
-129/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/LICENSE1760964373781808400 0
+125/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/semver/preload.js1760964374205470800 0
+152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pointer-events.js1760964377336446600 0
+139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/TN.js1760964377679303600 0
+142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/ping.js1760964377323890600 0
+139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/CZ.js1760964376189538600 0
+156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/picture-in-picture.js1760964377319205400 0
+144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/tls1-3.js1760964377674067100 0
+156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/permissions-policy.js1760964377309464300 0
+139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/type-fest/ts41/pascal-case.d.ts1760964374018053300 0
+148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pdf-viewer.js1760964377303992200 0
+153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/payment-request.js1760964377301542300 0
+130/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss/README.md1760964374018581000 0
+139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/PN.js1760964377333439200 0
+151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/passwordrules.js1760964377297777900 0
+139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/FR.js1760964376587576100 0
+146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/passkeys.js1760964377295899400 0
 125/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/lib1760964375356399000 1
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/test/config.test.js1760964374059129800 0
 121/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils1760964375349474200 1
@@ -815,7 +834,6 @@
 159/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_dump.c1760964374615170500 0
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/ime.js1760964376758759000 0
 130/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/types-internal1760964374019087900 1
-151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-js/lib/JSTransformer.js1760964373720781500 0
 134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-js/lib1760964373545275600 1
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/CY.js1760964376182136500 0
 155/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-html/src/HTMLTransformer.js1760964373577691300 0
@@ -869,9 +887,8 @@
 135/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/semver/functions/compare.js1760964373493470100 0
 128/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/ansi-styles/index.js1760964372610932700 0
 136/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-json/lib1760964373351977700 1
-131/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/escalade/dist/index.mjs1760964372843328400 0
-146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-babel/src/types.js1760964374085087500 0
-140/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/source-map/dist/utils.js1760964374112859800 0
+153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/permissions-api.js1760964377307785200 0
+144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/source-map/dist/wasm.js.flow1760964373613511300 0
 179/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo/index.js1760964374117244000 0
 164/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/runtime-js/lib/helpers/browser/preload-loader.js1760964374464846300 0
 132/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/packager-raw/src1760964373621755100 1
@@ -882,6 +899,7 @@
 124/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/parcel/README.md1760964374045602700 0
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/MV.js1760964377163275200 0
 134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/fixtures1760964376477285100 1
+151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-js/lib/JSTransformer.js1760964373720781500 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/srcset.js1760964377538536600 0
 142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/RequestTracker.js1760964375937567700 0
 143/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/error-overlay/src/styles.js1760964374247041100 0
@@ -889,6 +907,9 @@
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/TZ.js1760964377719990100 0
 154/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_apply_decs_2203_r/package.json1760964375734932900 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust/lib/index.js1760964373665843300 0
+128/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/semver/ranges/gtr.js1760964373869202700 0
+152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pagevisibility.js1760964377292101700 0
+129/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust/index.js1760964373613941200 0
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/dumpGraphToGraphViz.js1760964375155845400 0
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/src/_to_property_key.mjs1760964377288311500 0
 120/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust1760964373753764400 1
@@ -919,7 +940,7 @@
 165/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/runtime-js/src/helpers/browser/import-polyfill.js1760964374212279800 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/src/_inherits_loose.mjs1760964377202750000 0
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/types-internal/lib/Cache.d.ts1760964374062003000 0
-107/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/package.json1760964838065125300 0
+107/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/package.json1761309820928114800 0
 153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/runtime-js/src/helpers/.eslintrc.json1760964374518777700 0
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/runtime-js/src/helpers/.babelrc1760964373581100200 0
 184/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-x64-musl.node1760964375814308600 0
@@ -961,7 +982,6 @@
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/reporter-cli/src/CLIReporter.js1760964374203024800 0
 157/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/src/_initializer_define_property.mjs1760964377207599000 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/reporter-cli/src/bundleReport.js1760964373761914200 0
-149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/optimizer-swc/src/SwcOptimizer.js1760964373727087600 0
 128/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/LICENSE1760964374386807200 0
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/reporter-cli/package.json1760964374342929600 0
 132/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-node1760964373544932100 1
@@ -1013,7 +1033,7 @@
 146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/esm/_iterable_to_array.js1760964375344877700 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-shapes.js1760964376029849200 0
 130/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/plugin/LICENSE1760964373178448100 0
-125/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@msgpackr-extract1760964380176558400 1
+125/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@msgpackr-extract1761309820925493100 1
 136/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/lib/types.js1760964374431478400 0
 146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/types-internal/lib/unsafe.d.ts1760964374343410700 0
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/source-map/dist/wasm.js1760964374191937700 0
@@ -1224,7 +1244,7 @@
 149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/optimizer-css/src/CSSOptimizer.js1760964373780160400 0
 131/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lmdb/dist/index.cjs.map1760964376023548000 0
 150/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css3-cursors.js1760964376148659800 0
-107/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules1760964380492078200 1
+107/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules1761309820924407000 1
 123/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/fs/test1760964374211797800 1
 140/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/src/_instanceof.mjs1760964377212384200 0
 149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/optimizer-css/lib/CSSOptimizer.js1760964373672560900 0
@@ -1332,8 +1352,6 @@
 143/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/reporter-dev-server/LICENSE1760964373629489000 0
 143/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/runtime-js/src/JSRuntime.js1760964374423586600 0
 157/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js1760964374681138400 0
-130/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/color-convert/index.js1760964372846789000 0
-134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/graph/package.json1760964374298350800 0
 156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/lib/requests/WriteBundlesRequest.js1760964376222470400 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/error-overlay/src/components1760964374052665000 1
 149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css3-colors.js1760964376136860400 0
@@ -1446,7 +1464,7 @@
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/lib/SymbolPropagation.js1760964376025624700 0
 167/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_stat.11760964374398376300 0
 150/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-rrggbbaa.js1760964375998019700 0
-113/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@lmdb1760964380177493900 1
+113/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@lmdb1761309820925631100 1
 142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/events/src/ValueEmitter.js1760964374090100600 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/lib/index.js1760964375270898400 0
 132/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@mischnic/json-sourcemap1760964373247872700 1
@@ -1700,9 +1718,6 @@
 159/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/esm/_class_extract_field_descriptor.js1760964374903913900 0
 150/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/markdown-ansi/src/markdown-ansi.js1760964373001013700 0
 151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/electron-to-chromium/chromium-versions.json1760964373279746800 0
-138/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/lib/index.js.map1760964376015052300 0
-169/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/package-manager/test/getCurrentPackageManager.test.js1760964373833097000 0
-152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_new_arrow_check/package.json1760964376696041900 0
 167/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/fixtures/application-targets/package.json1760964376243741200 0
 134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/msgpackr/dist/index.min.js1760964374148918000 0
 136/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/events/src/errors.js1760964373999396000 0
@@ -1737,8 +1752,6 @@
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/source-map/dist/utils.js.flow1760964373496559000 0
 166/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_class_private_field_loose_key/package.json1760964376165143800 0
 128/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/msgpackr/index.d.cts1760964373889526500 0
-139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/TN.js1760964377679303600 0
-142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/ping.js1760964377323890600 0
 131/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/semver/functions/neq.js1760964374127623200 0
 163/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/fixtures/invalid-targets/package.json1760964376402556000 0
 136/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/.bin/download-lmdb-prebuilds1760964379672212200 0
@@ -1809,8 +1822,6 @@
 156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-babel/src/babelErrorUtils.js1760964373617695700 0
 119/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/.bin/semver1760964379673991100 0
 154/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/webkit-user-drag.js1760964377878017500 0
-139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/CZ.js1760964376189538600 0
-156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/picture-in-picture.js1760964377319205400 0
 124/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src1760964376200113400 1
 140/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/profiler/lib/Tracer.d.ts1760964373975657300 0
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/types-internal/lib/index.d.ts1760964374302098900 0
@@ -1866,6 +1877,10 @@
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/RU.js1760964377436313900 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/config-default/test/.babelrc1760964373784839700 0
 134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/diagnostic/LICENSE1760964373764986800 0
+145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/picture.js1760964377320824500 0
+152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_to_property_key/package.json1760964376915546600 0
+156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/cjs/_class_apply_descriptor_get.cjs1760964373773851400 0
+124/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/msgpackr/LICENSE1760964373013355200 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/package.json1760964377065983500 0
 178/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/src/index.js1760964375320177500 0
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/cjs/_non_iterable_rest.cjs1760964374489441400 0
@@ -1876,6 +1891,7 @@
 155/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/requests/ParcelBuildRequest.js1760964375688736900 0
 140/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/electron-to-chromium/versions.js1760964373229753000 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/array-find.js1760964374329329000 0
+135/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust-linux-x64-musl1761309818628122400 1
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/aac.js1760964372996692600 0
 135/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/graph/lib/BitSet.js1760964373974470600 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/feature-flags/lib1760964373943222600 1
@@ -1904,7 +1920,7 @@
 149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/namer-default/lib/DefaultNamer.js1760964373672225500 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/package.json1760964376237679300 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/src/windows/win_utils.cc1760964374037979600 0
-126/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/.package-lock.json1760964380495531400 0
+126/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/.package-lock.json1761309820983604100 0
 146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/src/isDirectoryInside.js1760964374993109700 0
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/ac3-ec3.js1760964373124641900 0
 152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/resizeobserver.js1760964377421520900 0
@@ -1912,6 +1928,8 @@
 168/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/fixtures/main-format-mismatch/package.json1760964376430257800 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/packager-html/src1760964373622601300 1
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/ParcelConfig.schema.js1760964375730068600 0
+149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/optimizer-swc/src/SwcOptimizer.js1760964373727087600 0
+156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/core-linux-x64-musl/swc.linux-x64-musl.node1761309820913216600 0
 112/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lmdb1760964376069931900 1
 131/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@lezer/lr/dist/index.js1760964374072514000 0
 154/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-mixblendmode.js1760964375838771500 0
@@ -1981,6 +1999,7 @@
 171/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg/node_modules1760964375467776600 1
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/types-internal/lib/FilePath.d.ts1760964374106680000 0
 146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/public/Environment.js1760964375241057200 0
+148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust-linux-x64-musl/package.json1761309818627883200 0
 154/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-postcss/src/loadPlugins.js1760964373804264900 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_class_private_field_init1760964376138756100 1
 156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-featurequeries.js1760964375583279000 0
@@ -2012,6 +2031,8 @@
 153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/lib/public/MutableBundleGraph.js1760964375536229800 0
 149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/fixtures/common-targets1760964376255953300 1
 169/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/mdn-css-backdrop-pseudo-element.js1760964377050076500 0
+147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/png-alpha.js1760964377334563300 0
+138/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/serializer.js1760964375981837000 0
 142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/serializerCore.js1760964376006788500 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/esm/_to_property_key.js1760964375524518500 0
 150/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/font-loading.js1760964376544407800 0
@@ -2201,10 +2222,7 @@
 157/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/reporter-dev-server/src/ServerReporter.js1760964374691717200 0
 124/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/semver/README.md1760964374455551600 0
 156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/requests/DevDepRequest.test.js1760964375142176100 0
-129/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/chalk/source/index.js1760964373674242100 0
-134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/package.json1760964375354411000 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/serializer.test.js1760964375990744900 0
-147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/TargetRequest.test.js1760964376121567700 0
 127/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/safe-buffer/LICENSE1760964372613003900 0
 150/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/config-default/test/config.test.js1760964373834817900 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/package-manager/package.json1760964374580734300 0
@@ -2217,6 +2235,7 @@
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/diagnostic/src/diagnostic.js1760964373882588100 0
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/ordered-binary/.idea/ordered-binary.iml1760964372938460700 0
 131/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/diagnostic/test1760964373947506200 1
+135/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss-linux-x64-musl1761309818599859100 1
 159/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/types-internal/lib/DependencySpecifier.d.ts1760964374077614800 0
 142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/test/workerfarm.js1760964374554986600 0
 158/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/diagnostic/test/JSONCodeHighlights.test.js1760964373946628200 0
@@ -2243,8 +2262,6 @@
 158/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/error-overlay/src/listenToRuntimeErrors.js1760964374052347500 0
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_new_arrow_check1760964376694374800 1
 131/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/fs/package.json1760964374238773600 0
-134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/lib/index.js1760964374920175900 0
-151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_initializer_define_property1760964376566672200 1
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/error-overlay/src/utils1760964374126288400 1
 122/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/fs/src1760964374148384600 1
 146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/bloburls.js1760964374701614300 0
@@ -2318,6 +2335,14 @@
 151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_check_private_redeclaration1760964375963777100 1
 158/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg1760964375460430600 1
 126/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/types/LICENSE1760964372742404000 0
+151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_initializer_define_property1760964376566672200 1
+134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/lib/index.js1760964374920175900 0
+138/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/lib/index.js.map1760964376015052300 0
+169/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/package-manager/test/getCurrentPackageManager.test.js1760964373833097000 0
+152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_new_arrow_check/package.json1760964376696041900 0
+129/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/LICENSE1760964373781808400 0
+129/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/chalk/source/index.js1760964373674242100 0
+134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/package.json1760964375354411000 0
 152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/utility-types/dist/functional-helpers.js.map1760964373235438000 0
 134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-js/src1760964373894146600 1
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/src/alternatives.js1760964373878328700 0
@@ -2383,7 +2408,6 @@
 135/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/src/stream.js1760964375294882700 0
 136/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/src/urlJoin.js1760964375326913300 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/esm/_array_like_to_array.js1760964374785061800 0
-126/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/test1760964375328131400 1
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/source-map/parcel_sourcemap_node1760964375950548200 1
 158/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/reporter-dev-server/src/templates/500.html1760964373808906900 0
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/test/DefaultMap.test.js1760964374132756700 0
@@ -2429,12 +2453,16 @@
 136/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/package.json1760964374414559400 0
 131/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/scripts1760964374376750000 1
 130/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/core/package.json1760964373744847000 0
+146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher-linux-x64-musl/LICENSE1761309818599245600 0
 152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/scripts/build-from-source.js1760964374383612500 0
 126/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/json5/lib/parse.js1760964373712582500 0
 138/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/src/Backend.hh1760964374142125300 0
 138/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/src/binding.cc1760964373079293500 0
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/sni.js1760964377516680800 0
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/src/Debounce.cc1760964373435827800 0
+130/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/color-convert/index.js1760964372846789000 0
+134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/graph/package.json1760964374298350800 0
+151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher-linux-x64-musl/watcher.node1761309818716933700 0
 127/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/fill-range/index.js1760964372506327200 0
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/ER.js1760964376387847600 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/array-flat.js1760964374338460100 0
@@ -2498,6 +2526,11 @@
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/LK.js1760964376997632000 0
 142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust-linux-x64-gnu/LICENSE1760964372862712100 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/browserVersions.js1760964374771816500 0
+138/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher-linux-x64-musl1761309818601107600 1
+131/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/escalade/dist/index.mjs1760964372843328400 0
+146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-babel/src/types.js1760964374085087500 0
+140/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/source-map/dist/utils.js1760964374112859800 0
+148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher-linux-x64-musl/README.md1761309818600601600 0
 134/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/index.d.ts1760964374574305200 0
 127/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/lib1760964374515766300 1
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/lib/childState.js1760964373799619200 0
@@ -2535,7 +2568,6 @@
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/src/_define_property.mjs1760964377184417000 0
 152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/src/threads/ThreadsWorker.js1760964374424590900 0
 152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_sliced_to_array/package.json1760964376843848900 0
-157/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/es6-string-includes.js1760964376419348000 0
 157/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/background-img-opts.js1760964374546007700 0
 136/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/src/types.js1760964374443885400 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/src/web/WebWorker.js1760964374491282700 0
@@ -2578,7 +2610,7 @@
 171/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/workers/test/integration/workerfarm/shared-reference.js1760964374369194600 0
 143/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/package-manager/src/Yarn.js1760964374566861300 0
 135/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/src/Glob.cc1760964373776414800 0
-112/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc1760964380180620800 1
+112/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc1761309820924710300 1
 117/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/core1760964373890007200 1
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/SymbolPropagation.js1760964376033946600 0
 128/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/core/binding.js1760964373491127400 0
@@ -2607,6 +2639,12 @@
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/node-addon-api/napi-inl.deprecated.h1760964373071255400 0
 126/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/plugin/lib1760964373249741800 1
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/core-linux-x64-gnu/README.md1760964372743771900 0
+157/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/es6-string-includes.js1760964376419348000 0
+132/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/core-linux-x64-musl1761309818597581400 1
+147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/test/TargetRequest.test.js1760964376121567700 0
+145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/core-linux-x64-musl/package.json1761309818593389600 0
+126/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/utils/test1760964375328131400 1
+142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/core-linux-x64-musl/README.md1761309818597339900 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/counter/CHANGELOG.md1760964372742833600 0
 141/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/esm/_create_class.js1760964375155365200 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/counter/package.json1760964372850678000 0
@@ -2781,7 +2819,7 @@
 139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/UG.js1760964377728256000 0
 154/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/transformer-postcss/lib/loadPlugins.js1760964373754861400 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/esm/_non_iterable_spread.js1760964375369971700 0
-115/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel1760964380183302900 1
+115/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel1761309820925341800 1
 143/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/esm/_overload_yield.js1760964375413410400 0
 140/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_array_with_holes1760964375768122700 1
 156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/esm/_possible_constructor_return.js1760964375419496600 0
@@ -2982,6 +3020,7 @@
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/jpegxr.js1760964376894403400 0
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/runtime-browser-hmr/src/loaders1760964374028809800 1
 140/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_get_prototype_of1760964376502058400 1
+143/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust-linux-x64-musl/LICENSE1761309818627454500 0
 140/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_jsx/package.json1760964376685049600 0
 132/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_identity1760964376527747400 1
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_identity/package.json1760964376528837500 0
@@ -3046,8 +3085,6 @@
 126/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/has-flag/readme.md1760964372669416000 0
 152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_super_prop_base/package.json1760964376853118300 0
 153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/offscreencanvas.js1760964377253571700 0
-139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/type-fest/ts41/pascal-case.d.ts1760964374018053300 0
-148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pdf-viewer.js1760964377303992200 0
 160/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_tagged_template_literal/package.json1760964376869078400 0
 162/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/input-autocomplete-onoff.js1760964376797122300 0
 129/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_throw1760964376876760600 1
@@ -3071,8 +3108,6 @@
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_type_of/package.json1760964376987937600 0
 166/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_unsupported_iterable_to_array/package.json1760964376998955000 0
 157/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-descendant-gtgt.js1760964375536772500 0
-139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/FR.js1760964376587576100 0
-146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/passkeys.js1760964377295899400 0
 130/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_update1760964377008863500 1
 142/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_using/package.json1760964377027503400 0
 146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_using_ctx/package.json1760964377019139100 0
@@ -3088,6 +3123,7 @@
 153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/reporter-tracer/src/TracerReporter.js1760964373783265500 0
 153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_write_only_error/package.json1760964377050921800 0
 135/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/types/assumptions.d.ts1760964373068492800 0
+151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher-linux-x64-musl/package.json1761309818600119800 0
 133/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/types/assumptions.js1760964372850216300 0
 146/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/packager-js/src/.eslintrc.json1760964374294794700 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/watcher/src/watchman/BSER.hh1760964374178692300 0
@@ -3106,6 +3142,7 @@
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/baseline-browser-mapping/dist/index.cjs1760964373065392600 0
 148/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/es6-module.js1760964376412353600 0
 144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/baseline-browser-mapping/LICENSE.txt1760964373863605700 0
+176/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust-linux-x64-musl/parcel-node-bindings.linux-x64-musl.node1761309820746840700 0
 114/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/braces1760964372931311700 1
 123/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/braces/index.js1760964372735676800 0
 108/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/src/index.css1760964548323348900 0
@@ -3284,8 +3321,6 @@
 149/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/import-maps.js1760964376766228500 0
 156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-letter-spacing.js1760964375773763600 0
 155/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-marker-pseudo.js1760964375788215800 0
-144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/source-map/dist/wasm.js.flow1760964373613511300 0
-153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/permissions-api.js1760964377307785200 0
 147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-masks.js1760964375793512400 0
 160/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/css-media-range-syntax.js1760964375811085700 0
 152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/input-datetime.js1760964376801654400 0
@@ -3479,20 +3514,3 @@
 165/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest3.c1760964375137029500 0
 145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/outline.js1760964377281448100 0
 151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pad-start-end.js1760964377288037100 0
-128/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/semver/ranges/gtr.js1760964373869202700 0
-129/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/rust/index.js1760964373613941200 0
-152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pagevisibility.js1760964377292101700 0
-130/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/lightningcss/README.md1760964374018581000 0
-139/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/regions/PN.js1760964377333439200 0
-151/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/passwordrules.js1760964377297777900 0
-153/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/payment-request.js1760964377301542300 0
-144/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/tls1-3.js1760964377674067100 0
-156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/permissions-policy.js1760964377309464300 0
-152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/_/_to_property_key/package.json1760964376915546600 0
-156/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@swc/helpers/cjs/_class_apply_descriptor_get.cjs1760964373773851400 0
-124/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/msgpackr/LICENSE1760964373013355200 0
-145/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/picture.js1760964377320824500 0
-138/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/@parcel/core/src/serializer.js1760964375981837000 0
-147/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/png-alpha.js1760964377334563300 0
-125/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/semver/preload.js1760964374205470800 0
-152/media/milk/BE928FDD928F9913/Users/PINCHE KUKE/Documents/tec 7mo/prog web/Parcial 2/2.7 Parcel/node_modules/caniuse-lite/data/features/pointer-events.js1760964377336446600 0

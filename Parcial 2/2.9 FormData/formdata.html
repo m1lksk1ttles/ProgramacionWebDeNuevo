@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+</head>
+<body>
+    <form action="https://kuke69.free.beeceptor.com" method="POST" target="resultadoPost" id="idForm">
+        <label for="nombre">Nombre</label>
+        <input id ="nombre" type="text" name="nombre">
+ 
+        <label for="apellido">Apellido</label>
+        <input id ="apellido" type="text" name="apellido">
+ 
+        <button type"submit">Enviar</button>
+        <button onclick="formadaada()">Formdata</button>
+    </form>
+    <iframe name="resultadoPost"></iframe>
+     <script>
+        function formadaada(){ datosForm = new FormData(document.getElementById("idForm"));
+        const cadenaUrl = new URLSearchParams(datosForm).toString();
+        fetch("https://kuke69.free.beeceptor.com",{method: "POST", headers: {"Content-Type": "application/x-www-form-urlencoded"},body: cadenaUrl})
+        .then(Response=>Response.json)
+        .then(dato=>console.log(dato));}
+    </script>
+</body>
+</html>
