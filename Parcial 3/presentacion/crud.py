@@ -2,7 +2,6 @@ from models import Usuario
 from sqlalchemy.orm import Session
 from pydantic import BaseModel
 
-# Schema de entrada
 class UsuarioCreate(BaseModel):
     nombre: str
     email: str
